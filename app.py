@@ -1,6 +1,7 @@
 from typing import Text
 import streamlit as st
 import re
+import easyocr
 from PIL import Image
 import io
 import sqlite3
