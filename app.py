@@ -1,6 +1,5 @@
 from typing import Text
 import streamlit as st
-import easyocr
 import re
 from PIL import Image
 import io
